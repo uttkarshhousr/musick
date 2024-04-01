@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719901521562",
+    "project_id": "musicknew",
+    "storage_bucket": "musicknew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719901521562:android:b420e1d18774ee0c295123",
+        "android_client_info": {
+          "package_name": "com.example.musick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzAgzO4JfFlmObDrz6hWJPXnOcabH-7Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
